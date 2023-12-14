@@ -7,6 +7,7 @@ This project is a simplified clone of Airbnb, built using React for the frontend
 1.User Authentication: Firebase authentication ensures secure and seamless user registration and login.
 2. Property Listings: Explore a variety of property listings with details and images.
 3. Responsive Design: Tailwind CSS is used for a sleek and responsive user interface, ensuring a seamless experience across devices.
+<img width="949" alt="Airbnb" src="https://github.com/Shivakant1105/Airbnb-Clone/assets/71607627/dbad8a2c-d239-4495-ab58-8af19d6154c8">
 
 # Prerequisites
 
