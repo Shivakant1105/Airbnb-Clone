@@ -14,7 +14,7 @@ npm (comes with Node.js)
 
 ## Getting Started
 ## Clone the repository:
-git clone https://github.com/your-username/react-airbnb-clone.git
+https://github.com/Shivakant1105/Airbnb-Clone.git
 Navigate to the project directory:
 cd react-airbnb-clone
 Install dependencies:
