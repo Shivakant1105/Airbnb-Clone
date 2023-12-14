@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "image": "https://a0.muscache.com/im/pictures/373443ec-b377-4181-b753-3a2f3508c2b3.jpg?im_w=1200",
+      "name": "Dome hosted by LookBook",
+      "category": "Water Bungalows",
+      "location": " Maldives ",
+      "rating": "5 star",
+      "typeofplace" : "Water Bungalows ",
+      "rooms": "1",
+      "host language": "hindi",
+      "price":7500
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWx8ZW58MHx8MHx8&w=1000&q=80",
+      "name": "Hotel Taj",
+      "category": "Boutique hotel",
+      "location": "india",
+      "rating": "3 star",
+      "typeofplace": "Water Bungalows ",
+      "rooms": "3",
+      "host language": "english",
+      "price":15000
+    },
+    {
+      "id": 3,
+      "image": "https://ak-d.tripcdn.com/images/0224h1200082ho6kc9B9A_Z_1100_824_R5_Q70_D.jpg",
+      "name": "Crowne Plaza",
+      "category": "Apartment hotel",
+      "location": " Shrilanka ",
+      "rateing": "2 star",
+      "typeofplace": "Water Bungalows ",
+      "rooms": "2",
+      "host language": "hindi",
+      "price":6000
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "name": "Hotel Bliss",
+      "category": "Condo hotel",
+      "location": "USA",
+      "rateing": "1 star",
+      "typeofplace": "Water Bungalows ",
+      "rooms": "1",
+      "host language": "hindi",
+      "price": 10000
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "name": "University Inn",
+      "category": "Eco hotels",
+      "location": "Italy",
+      "rateing": "5 star",
+      "typeofplace": "Water Bungalows ",
+      "rooms": "4",
+      "host language": "english",
+      "price": 15000
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "The New View",
+      "category": "Water Bungalows",
+      "location": "China",
+      "rateing": "3 star",
+      "typeofplace": "Water Bungalows ",
+      "rooms": "5",
+      "host language": "english",
+      "price":25000
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Sunset Lodge",
+      "category": "Water Bungalows",
+      "location": "Nepal",
+      "rateing": "5 star",
+      "typeofplace": "Bungalows ",
+      "rooms": "5",
+      "host language": "hindi",
+      "price": 4000
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Hotel Elite",
+      "category": "Eco hotels",
+      "location": " Maldives ",
+      "rateing": "5 star",
+      "typeofplace": "Water Bungalows ",
+      "rooms": "3",
+      "host language": "hindi",
+      "price":8000
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1586611292717-f828b167408c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "University Inn",
+      "category": "Water Bungalows",
+      "location": "Russia ",
+      "rateing": "5 star",
+      "typeofplace": "Water Bungalows ",
+      "rooms": "1",
+      "host language": "hindi",
+      "price":22500
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1586611292717-f828b167408c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Hotel Elite",
+      "category": "Apartment hotel",
+      "location": "india",
+      "rating": "5 star",
+      "typeofplace": "Water Bungalows ",
+      "rooms": "2",
+      "host language": "hindi",
+      "price":40000
+    }
+  ]
