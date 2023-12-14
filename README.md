@@ -8,18 +8,20 @@ This project is a simplified clone of Airbnb, built using React for the frontend
 ** Responsive Design: Tailwind CSS is used for a sleek and responsive user interface, ensuring a seamless experience across devices.
 
 # Prerequisites
-** Make sure you have the following installed:
-** Node.js
-** npm (comes with Node.js)
+
+1. Make sure you have the following installed:
+2. Node.js
+3. npm (comes with Node.js)
 
 ## Getting Started
 ### Clone the repository:
-** https://github.com/Shivakant1105/Airbnb-Clone.git
-** Navigate to the project directory:
-** cd react-airbnb-clone
-** Install dependencies:
-** npm install
-** Set up Firebase:
+
+1. https://github.com/Shivakant1105/Airbnb-Clone.git
+2. Navigate to the project directory:
+3. cd react-airbnb-clone
+4. Install dependencies:
+5. npm install
+6. Set up Firebase:
 ** Create a new Firebase project: Firebase Console.
 ** Obtain your Firebase configuration and replace it in src/firebase/firebase.js.
 ** Enable Email/Password authentication in the Firebase console.
