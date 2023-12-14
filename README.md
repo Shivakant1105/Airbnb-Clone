@@ -3,29 +3,29 @@
 This project is a simplified clone of Airbnb, built using React for the frontend, Tailwind CSS for styling, and Firebase for user authentication. It provides users with the ability to browse property listings, sign up for an account, and log in securely.
 
 ## Features
-User Authentication: Firebase authentication ensures secure and seamless user registration and login.
-Property Listings: Explore a variety of property listings with details and images.
-Responsive Design: Tailwind CSS is used for a sleek and responsive user interface, ensuring a seamless experience across devices.
+** User Authentication: Firebase authentication ensures secure and seamless user registration and login.
+** Property Listings: Explore a variety of property listings with details and images.
+** Responsive Design: Tailwind CSS is used for a sleek and responsive user interface, ensuring a seamless experience across devices.
 
 # Prerequisites
-Make sure you have the following installed:
-Node.js
-npm (comes with Node.js)
+** Make sure you have the following installed:
+** Node.js
+** npm (comes with Node.js)
 
 ## Getting Started
-## Clone the repository:
-https://github.com/Shivakant1105/Airbnb-Clone.git
-Navigate to the project directory:
-cd react-airbnb-clone
-Install dependencies:
-npm install
-Set up Firebase:
-Create a new Firebase project: Firebase Console.
-Obtain your Firebase configuration and replace it in src/firebase/firebase.js.
-Enable Email/Password authentication in the Firebase console.
-Run the application:
-npm start
-Open http://localhost:3000 in your browser.
+### Clone the repository:
+** https://github.com/Shivakant1105/Airbnb-Clone.git
+** Navigate to the project directory:
+** cd react-airbnb-clone
+** Install dependencies:
+** npm install
+** Set up Firebase:
+** Create a new Firebase project: Firebase Console.
+** Obtain your Firebase configuration and replace it in src/firebase/firebase.js.
+** Enable Email/Password authentication in the Firebase console.
+** Run the application:
+** npm start
+** Open http://localhost:3000 in your browser.
 
 ## Usage
 Visit the homepage to explore property listings.
